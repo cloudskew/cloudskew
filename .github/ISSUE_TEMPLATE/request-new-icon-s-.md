@@ -15,8 +15,8 @@ Some examples:
 **Which area/domain would these icons fall under?**
 E.g. IOT, databases, networks, serverless, monitoring etc. 
 
-**Where can these icons be downloaded from?**
-Would be great if you could point us to a download link for these icons. Note: only `.svg` format is supported at the moment.
+**Where can these icons be downloaded from?** (note: only `.svg` format is supported at the moment)
+Would be great if you could point us to a download link for these icons. 
 
 **Additional details**
 Add any other details about the feature request here.

@@ -1,6 +1,6 @@
 ---
 name: Request new feature
-about: Suggest an idea for this project
+about: Suggest a new feature (or changes to existing features) for cloudskew
 title: ''
 labels: ''
 assignees: ''
