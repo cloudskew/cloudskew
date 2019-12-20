@@ -27,6 +27,7 @@ In the near team, the following features are on the roadmap:
 * View & adjust z-index of diagram symbols via a separate control.
 * Import custom icons into a diagram.
 * Group multiple symbols together.
+* Keyboard shortcuts for commonly performed actions.
 * Display a symbol's contextual information via tooltips and/or thumbs.
 * More icons, shapes and diagram templates. You can always request specific ones [here](https://github.com/cloudskew/cloudskew/issues/new/choose). You can view existing open requests [here](https://github.com/cloudskew/cloudskew/issues?q=is%3Aopen+is%3Aissue+label%3Aicon-request).
 
