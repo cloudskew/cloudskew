@@ -1,6 +1,8 @@
-@todo:screenshot
+# CloudSkew
 
-With CloudSkew you can create Azure architecture diagrams for free!
+Create Azure architecture diagrams for free!
+
+![Build Status](https://cloudskewprod.azureedge.net/assets/misc/landing-page-hero-2.jpg)
 
 ### Available features :heavy_check_mark:
 
