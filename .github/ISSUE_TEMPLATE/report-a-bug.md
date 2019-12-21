@@ -23,6 +23,9 @@ A clear and concise description of what you expected to happen.
 **Screenshots**
 If possible, add screenshots and/or screen recordings which capture the issue. These greatly help investigations.
 
+**Errors in browser console**
+If you observe any errors in the browser console, please paste those here.
+
 **Desktop (please complete the following information):**
  - OS: [e.g. windows10, macOS]
  - Browser [e.g. chrome, safari, firefox]

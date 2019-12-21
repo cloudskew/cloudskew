@@ -38,7 +38,7 @@ New feature announcements will be listed on this [release page](https://github.c
 
 ## Found a bug? :beetle:
 
-Please report it [here](https://github.com/cloudskew/cloudskew/issues/new/choose). Screenshots and/or screen recordings would be tremendously helpful in investigations.
+Please report it [here](https://github.com/cloudskew/cloudskew/issues/new/choose).
 
 ## Pricing :dollar:
 
