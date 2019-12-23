@@ -18,12 +18,12 @@ The following features are available in CloudSkew right now:
 * Undo & redo actions.
 * Access frequent commands via context menu (cut, copy, paste, delete etc).
 * Adjust z-index of any symbol on the diagram (via context menu).
+* Zoom in & out of a diagram.
 
 ## Planned features :calendar:
 
 In the near team, the following features are on the roadmap:
 
-* Zoom in & out of a diagram.
 * View & adjust z-index of diagram symbols via a separate control.
 * Import custom icons into a diagram.
 * Group multiple symbols together.
