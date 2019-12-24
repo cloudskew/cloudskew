@@ -27,8 +27,8 @@ If possible, add screenshots and/or screen recordings which capture the issue. T
 If you observe any errors in the browser console, please paste those here.
 
 **Desktop (please complete the following information):**
- - OS: [e.g. windows10, macOS]
  - Browser [e.g. chrome, safari, firefox]
+ - OS: [e.g. windows10, macOS]
 
 **Additional details**
 Add any other details about the problem here.

@@ -2,7 +2,7 @@
 
 Create Azure architecture diagrams for free! Start [here](https://www.cloudskew.com/).
 
-[![Build Status](https://cloudskewprod.azureedge.net/assets/misc/landing-page-hero-2.jpg)](https://www.cloudskew.com/)
+[![CloudSkew](https://cloudskewprod.azureedge.net/assets/misc/landing-page-hero-2.jpg)](https://www.cloudskew.com/)
 
 ## Available features :heavy_check_mark:
 
@@ -43,3 +43,24 @@ Please report it [here](https://github.com/cloudskew/cloudskew/issues/new/choose
 ## Pricing :dollar:
 
 CloudSkew will remain free for individual users. There are plans to add premium features for teams & enterprises in the future.
+
+## Frequently asked question :grey_question:
+
+**Why can't the diagram canvas be resized?**
+
+The diagram size is restricted to 900px x 500px (landscape mode). While it's possible to zoom in/out, it's not possible to change a diagram's height, width & orientation.
+
+Custom diagram sizes might be enabled at a future point as a premium/paid feature.
+
+**Any plans to auto-generate diagrams from existing infrastructure?**
+
+Not in the [near-term future](#planned-features-calendar).
+
+**Is this an open source project?**
+
+No. However, would love to open source parts of it in the future to invite community contributions around:
+
+* icons from different cloud providers.
+* templates for some frequently created diagrams.
+
+However not there yet, lot of features have to be added before all this can be enabled.
