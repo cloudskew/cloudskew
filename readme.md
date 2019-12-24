@@ -44,7 +44,7 @@ Please report it [here](https://github.com/cloudskew/cloudskew/issues/new/choose
 
 CloudSkew will remain free for individual users. There are plans to add premium features for teams & enterprises in the future.
 
-## Frequently asked question :grey_question:
+## Frequently asked questions :grey_question:
 
 **Why can't the diagram canvas be resized?**
 
