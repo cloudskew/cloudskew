@@ -29,6 +29,7 @@ In the near team, the following features are on the roadmap:
 * Group multiple symbols together.
 * Save checkpoints/snapshots (along with ability to restore-from/rollback-to a previous checkpoint).  
 * Keyboard shortcuts for commonly performed actions.
+* Annotation support for all symbols.
 * Display a symbol's contextual information via tooltips and/or thumbs.
 * More icons, shapes and diagram templates. You can always request specific ones [here](https://github.com/cloudskew/cloudskew/issues/new/choose). You can view existing open requests [here](https://github.com/cloudskew/cloudskew/issues?q=is%3Aopen+is%3Aissue+label%3Aicon-request).
 
