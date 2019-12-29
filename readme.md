@@ -19,13 +19,13 @@ The following features are available in CloudSkew right now:
 * Access frequent commands via context menu (cut, copy, paste, delete etc).
 * Adjust z-index of any symbol on the diagram (via context menu).
 * Zoom in & out of a diagram.
+* Import custom images into a diagram (.png, .jpg formats only, file size must be < 512 KB).
 
 ## Planned features :calendar:
 
 In the near team, the following features are on the roadmap:
 
 * View & adjust z-index of diagram symbols via a separate control.
-* Import custom icons into a diagram.
 * Group multiple symbols together.
 * Save checkpoints/snapshots (along with ability to restore-from/rollback-to a previous checkpoint).  
 * Keyboard shortcuts for commonly performed actions.
