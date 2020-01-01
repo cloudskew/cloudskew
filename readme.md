@@ -20,6 +20,7 @@ The following features are available in CloudSkew right now:
 * Adjust z-index of any symbol on the diagram (via context menu).
 * Zoom in & out of a diagram.
 * Import custom images into a diagram (.png, .jpg formats only, file size must be < 512 KB).
+* Any selected symbol's information is displayed via tooltip on hover.
 
 ## Planned features :calendar:
 
@@ -30,7 +31,6 @@ In the near team, the following features are on the roadmap:
 * Save checkpoints/snapshots (along with ability to restore-from/rollback-to a previous checkpoint).  
 * Keyboard shortcuts for commonly performed actions.
 * Annotation support for all symbols.
-* Display a symbol's contextual information via tooltips and/or thumbs.
 * More icons, shapes and diagram templates. You can always request specific ones [here](https://github.com/cloudskew/cloudskew/issues/new/choose). You can view existing open requests [here](https://github.com/cloudskew/cloudskew/issues?q=is%3Aopen+is%3Aissue+label%3Aicon-request).
 
 The relative priorities of these planned features will depend on the volume of user requests received. If you have a feature request that's not listed up here, you can file a new one [here](https://github.com/cloudskew/cloudskew/issues/new/choose).
