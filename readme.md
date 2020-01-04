@@ -57,6 +57,10 @@ Custom diagram sizes might be enabled at a future point as a premium/paid featur
 
 Not in the [near-term future](#planned-features-calendar).
 
+**Any plans to improve the experience on mobile devices?**
+
+No plans. The web app is best used on laptops and desktops (screen resolutions higher than 960 x 540, landscape mode).
+
 **Is this an open source project?**
 
 No. However, would love to open source parts of it in the future to invite community contributions around:
