@@ -35,7 +35,7 @@ In the near team, the following features are on the roadmap:
 
 The relative priorities of these planned features will depend on the volume of user requests received. If you have a feature request that's not listed up here, you can file a new one [here](https://github.com/cloudskew/cloudskew/issues/new/choose).
 
-New feature announcements will be listed on this [release page](https://github.com/cloudskew/cloudskew/releases).
+You can see all the [planned milestones](https://github.com/cloudskew/cloudskew/milestones) and [release annoucements](https://github.com/cloudskew/cloudskew/releases).
 
 ## Found a bug? :beetle:
 
