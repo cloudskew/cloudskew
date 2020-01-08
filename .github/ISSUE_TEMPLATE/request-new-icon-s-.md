@@ -2,7 +2,7 @@
 name: Request new icon(s)
 about: Suggest a new icon (or icon set) to be included in cloudskew
 title: ''
-labels: icon request
+labels: icon-request
 assignees: ''
 
 ---

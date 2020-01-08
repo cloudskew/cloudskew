@@ -2,7 +2,7 @@
 name: Request new feature
 about: Suggest a new feature (or changes to existing features) for cloudskew
 title: ''
-labels: feature request
+labels: feature-request
 assignees: ''
 
 ---
