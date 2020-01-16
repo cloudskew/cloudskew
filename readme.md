@@ -69,3 +69,7 @@ No. However, would love to open source parts of it in the future to invite commu
 * templates for some frequently created diagrams.
 
 However not there yet, lot of features have to be added before all this can be enabled.
+
+**What does the CloudSkew architecture look like?**
+
+Take a [look](./images/cloudskew-architecture-20200116.png).
