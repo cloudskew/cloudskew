@@ -72,4 +72,4 @@ However not there yet, lot of features have to be added before all this can be e
 
 **What does the CloudSkew architecture look like?**
 
-Take a [look](./images/cloudskew-architecture-20200116.png).
+Take a [look](https://assets.cloudskew.com/assets/misc/cloudskew-architecture-20200116.png).
