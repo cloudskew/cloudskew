@@ -8,6 +8,7 @@ Create Azure architecture diagrams for free! Start [here](https://www.cloudskew.
 
 The following features are available in CloudSkew right now:
 
+* Icons for Azure, GCP, CNCF and more are preloaded in the app. 
 * Create a new diagram from a template (or simply a new empty diagram).
 * Print a diagram and/or export it to `.png`, `.jpg` or `.bmp` formats.
 * Lock an entire diagram or just individual symbols (locking make things read-only, preventing them from being edited or deleted).
@@ -81,6 +82,10 @@ No. However, would love to open source parts of it in the future to invite commu
 * templates for some frequently created diagrams.
 
 However not there yet, lot of features have to be added before all this can be enabled.
+
+**Why are users required to login?**
+
+The diagrams are auto-saved, which requires users to be logged in. Auto-save was a convenience feature requested by many of the initial test users. Also some upcoming features (checkpoints, restoring from checkpoints etc) will require users to be authenticated.
 
 **What does the CloudSkew architecture look like?**
 
