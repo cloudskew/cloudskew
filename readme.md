@@ -46,6 +46,18 @@ Please report it [here](https://github.com/cloudskew/cloudskew/issues/new/choose
 
 CloudSkew will remain free for individual users. There are plans to add premium features for teams & enterprises in the future.
 
+## Icon attribution :clap:
+
+A big thanks to all the icon creators for all their hard work!
+
+* [Azure icons](https://www.microsoft.com/en-in/download/details.aspx?id=41937)
+* [Auth0 icons](https://identicons.dev/) ([github](https://github.com/auth0/identicons))
+* [AWS icons](https://aws.amazon.com/architecture/icons/)
+* [CNCF icons](https://github.com/cncf/artwork)
+* [DevIcons](https://konpa.github.io/devicon/) ([github](https://github.com/konpa/devicon/))
+* [Elasticsearch icons](https://www.elastic.co/brand)
+* [GCP icons](https://cloud.google.com/icons/)
+
 ## Frequently asked questions :grey_question:
 
 **Why can't the diagram canvas be resized?**
