@@ -62,6 +62,10 @@ Not in the [near-term future](#planned-features-calendar).
 
 No plans. The web app is best used on laptops and desktops (screen resolutions higher than 960 x 540, landscape mode).
 
+**Why doesn't the app work correctly in Internet Explorer (IE)?**
+
+To be honest, I haven't tested it in IE. No plans to add support for IE since it is [now deprecated](https://support.microsoft.com/en-in/help/17454/lifecycle-faq-internet-explorer).
+
 **Is this an open source project?**
 
 No. However, would love to open source parts of it in the future to invite community contributions around:
@@ -73,7 +77,9 @@ However not there yet, lot of features have to be added before all this can be e
 
 **Why are users required to login?**
 
-The diagrams are auto-saved, which requires users to be logged in. Auto-save was a convenience feature requested by many of the initial test users. Also some upcoming features (checkpoints, restoring from checkpoints etc) will require users to be authenticated.
+The diagrams are auto-saved, which requires users to be logged in. Auto-save was a convenience feature requested by many of the initial test users. 
+
+Also some upcoming features (checkpoints, restoring from checkpoints etc) will require users to be authenticated.
 
 **What does the CloudSkew architecture look like?**
 
