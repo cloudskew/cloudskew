@@ -23,6 +23,7 @@ The following features are available in CloudSkew right now:
 * Import custom images into a diagram (.png, .jpg formats only, file size must be < 512 KB).
 * Any selected symbol's information is displayed via tooltip on hover.
 * Attach text labels to any symbol. Labels can be re-positioned, re-sized, rotated and styled (via properties window).
+* Optionally enable/disable entire icon families (via preferences/settings bar).  
 
 ## Planned features :calendar:
 
