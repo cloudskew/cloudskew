@@ -93,6 +93,13 @@ The diagrams are auto-saved, which requires users to be logged in. Auto-save was
 
 Also some upcoming features (checkpoints, restoring from checkpoints etc) will require users to be authenticated.
 
+**Any tips/tricks to make my diagram "pop"?**
+
+Do the following:
+
+* Change color of the rectangle shapes to something that contrasts the icons inside it.
+* Reduce the opacity of the rectangle shapes to (say) 40% or 50%.
+
 **What does the CloudSkew architecture look like?**
 
 Take a [look](https://assets.cloudskew.com/assets/misc/cloudskew-architecture-20200116.png).
