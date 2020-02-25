@@ -57,6 +57,7 @@ A big thanks to all the icon creators for all their hard work!
 * [DevIcons](https://konpa.github.io/devicon/) ([github](https://github.com/konpa/devicon/))
 * [Elasticsearch icons](https://www.elastic.co/brand)
 * [GCP icons](https://cloud.google.com/icons/)
+* [Rancher Labs icons](https://rancher.com/brand-guidelines/)
 
 ## Frequently asked questions :grey_question:
 
