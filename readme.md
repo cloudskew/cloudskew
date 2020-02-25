@@ -1,6 +1,6 @@
 # CloudSkew
 
-Create Azure architecture diagrams for free! Start [here](https://www.cloudskew.com/).
+Create cloud architecture diagrams for free! Start [here](https://www.cloudskew.com/).
 
 [![CloudSkew](https://cloudskewprod.azureedge.net/assets/misc/landing-page-hero-2.jpg)](https://www.cloudskew.com/)
 
@@ -8,7 +8,7 @@ Create Azure architecture diagrams for free! Start [here](https://www.cloudskew.
 
 The following features are available in CloudSkew right now:
 
-* Icons for Azure, GCP, CNCF and more are preloaded in the app. 
+* Icons for Azure, AWS, GCP, CNCF and more are preloaded in the app. 
 * Create a new diagram from a template (or simply a new empty diagram).
 * Print a diagram and/or export it to `.png`, `.jpg` or `.bmp` formats.
 * Lock an entire diagram or just individual symbols (locking make things read-only, preventing them from being edited or deleted).
@@ -23,6 +23,7 @@ The following features are available in CloudSkew right now:
 * Import custom images into a diagram (.png, .jpg formats only, file size must be < 512 KB).
 * Any selected symbol's information is displayed via tooltip on hover.
 * Attach text labels to any symbol. Labels can be re-positioned, re-sized, rotated and styled (via properties window).
+* Optionally enable/disable entire icon families (via preferences/settings bar).  
 
 ## Planned features :calendar:
 
@@ -57,6 +58,7 @@ A big thanks to all the icon creators for all their hard work!
 * [DevIcons](https://konpa.github.io/devicon/) ([github](https://github.com/konpa/devicon/))
 * [Elasticsearch icons](https://www.elastic.co/brand)
 * [GCP icons](https://cloud.google.com/icons/)
+* [Kubernetes community icons](https://docs.google.com/presentation/d/15h_MHjR2fzXIiGZniUdHok_FP07u1L8MAX5cN1r0j4U/edit?usp=sharing)   ([github](https://github.com/kubernetes/community/tree/master/icons))
 * [Rancher Labs icons](https://rancher.com/brand-guidelines/)
 
 ## Frequently asked questions :grey_question:
@@ -75,6 +77,10 @@ Not in the [near-term future](#planned-features-calendar).
 
 No plans. The web app is best used on laptops and desktops (screen resolutions higher than 960 x 540, landscape mode).
 
+**Why doesn't the app work correctly in Internet Explorer (IE)?**
+
+To be honest, I haven't tested it in IE. No plans to add support for IE since it is [now deprecated](https://support.microsoft.com/en-in/help/17454/lifecycle-faq-internet-explorer).
+
 **Is this an open source project?**
 
 No. However, would love to open source parts of it in the future to invite community contributions around:
@@ -86,7 +92,16 @@ However not there yet, lot of features have to be added before all this can be e
 
 **Why are users required to login?**
 
-The diagrams are auto-saved, which requires users to be logged in. Auto-save was a convenience feature requested by many of the initial test users. Also some upcoming features (checkpoints, restoring from checkpoints etc) will require users to be authenticated.
+The diagrams are auto-saved, which requires users to be logged in. Auto-save was a convenience feature requested by many of the initial test users. 
+
+Also some upcoming features (checkpoints, restoring from checkpoints etc) will require users to be authenticated.
+
+**Any tips/tricks to make my diagram "pop"?**
+
+Do the following:
+
+* Change color of the rectangle shapes to something that contrasts the icons inside it.
+* Reduce the opacity of the rectangle shapes to (say) 40% or 50%.
 
 **What does the CloudSkew architecture look like?**
 
